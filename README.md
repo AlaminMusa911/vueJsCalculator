@@ -1,4 +1,4 @@
 # Vue JS Calculator
 
 ## Demo Link Here:
-[Vue JS Calculator](https://alaminmusa911.github.io/vueJsCalculator/){:target="_blank"}
+<a href="https://alaminmusa911.github.io/vueJsCalculator/" target="_blank">Vue JS Calculator</a>
